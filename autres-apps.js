@@ -21,7 +21,7 @@
              es: "Todas tus nubes en una sola app.", pt: "Todas as suas nuvens numa só app.",
              nl: "Al je clouds in één app.", de: "Alle deine Clouds in einer App.",
              it: "Tutti i tuoi cloud in un'unica app." } },
-    { id: "gouache", name: "Atelier", site: "https://xavier38.github.io/atelier/", repo: "https://github.com/xavier38/atelier",
+    { id: "atelier", name: "Atelier", site: "https://xavier38.github.io/atelier/", repo: "https://github.com/xavier38/atelier",
       icon: "https://xavier38.github.io/atelier/icon.png?v=20261106",
       tag: { fr: "Vos photos méritent un atelier : retouchez-les sur votre Mac, sans compte ni nuage.", en: "Your photos deserve a studio: edit them on your Mac, no account, no cloud.",
              es: "Tus fotos merecen un taller: retócalas en tu Mac, sin cuenta ni nube.", pt: "As suas fotos merecem um ateliê: retoque-as no seu Mac, sem conta nem nuvem.",
