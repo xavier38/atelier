@@ -18,10 +18,11 @@ Gratuit · macOS 14 Sonoma ou plus récent · Mac Apple Silicon — Free · macO
 
 ## 🇫🇷 En deux mots
 
-Atelier retouche vos photos en deux modes, dans une seule app et un seul fichier :
+Atelier réunit trois modules pour organiser et retoucher vos images :
 
+- **Photothèque** : parcourez vos dossiers et les photos d’Apple autorisées, créez ou renommez des dossiers, déplacez les images par glisser-déposer avec une cible bien visible, ou mettez-les à la corbeille.
 - **Essentiel** : cliquez sur ce qui vous gêne (ciel, personne, arrière-plan, objet). Atelier a repéré les zones de la photo sur votre Mac et propose trois variantes calculées sur votre image, puis un curseur. Suggestions (penchée, un peu sombre, sujet détecté), journal « Ce que j'ai fait » où chaque ligne se masque, se modifie ou se retire, Espace pour voir l'original, Revenir à l'original toujours possible.
-- **Studio** : l'éditeur complet. 50+ effets, 19+ outils (pinceau, correcteur, pièce, tampon, formes, texte, recadrage, perspective, fluidité…), calques de réglage, masques, filtres modifiables, styles, groupes, écrêtage, 14 modes de fusion, histogramme, RAW.
+- **Studio** : l'éditeur complet. 50+ effets, 19+ outils (pinceau, correcteur, pièce, tampon, formes, texte, recadrage, perspective, fluidité…), calques de réglage, masques, filtres modifiables, styles, groupes, écrêtage, modes de fusion, histogramme, RAW.
 
 Tout est **non destructif** : ce que l'Essentiel fait apparaît en couches dans le Studio, et le document Atelier garde la photo d'origine, le journal et les calques. Export par destination (message, en ligne, impression, qualité maximale) ou à la main : PNG, JPEG, HEIC, AVIF, TIFF, BMP, GIF, TGA, ICO, DDS, JPEG 2000 ; lecture WebP, JPEG XL, PSD, RAW.
 
@@ -29,10 +30,11 @@ Tout est **non destructif** : ce que l'Essentiel fait apparaît en couches dans 
 
 ## 🇬🇧 In short
 
-Atelier edits your photos in two modes, in one app and one file:
+Atelier brings together three modules to organise and edit your images:
 
-- **Essentiel**: click what bothers you (sky, person, background, object). Atelier has found the areas of the photo on your Mac and offers three variants computed on your picture, then a slider. Suggestions (tilted, a bit dark, subject detected), a “What I did” list where each line can be hidden, changed or removed, Space to see the original, Back to original always possible.
-- **Studio**: the full editor. 50+ effects, 19+ tools (brush, healing, patch, clone, shapes, text, crop, perspective, liquify…), adjustment layers, masks, editable filters, styles, groups, clipping, 14 blend modes, histogram, RAW.
+- **Photo Library**: browse your folders and authorised Apple Photos, create or rename folders, move images by drag and drop with a clearly highlighted target, or send them to the Trash.
+- **Essential**: click what bothers you (sky, person, background, object). Atelier has found the areas of the photo on your Mac and offers three variants computed on your picture, then a slider. Suggestions (tilted, a bit dark, subject detected), a “What I did” list where each line can be hidden, changed or removed, Space to see the original, Back to original always possible.
+- **Studio**: the full editor. 50+ effects, 19+ tools (brush, healing, patch, clone, shapes, text, crop, perspective, liquify…), adjustment layers, masks, editable filters, styles, groups, clipping, blend modes, histogram, RAW.
 
 Everything is **non-destructive**: what Essentiel does shows up as layers in the Studio, and the Atelier document keeps the original photo, the list and the layers. Export by destination (message, online, print, maximum quality) or by hand: PNG, JPEG, HEIC, AVIF, TIFF, BMP, GIF, TGA, ICO, DDS, JPEG 2000; reads WebP, JPEG XL, PSD, RAW.
 
