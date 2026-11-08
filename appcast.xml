@@ -5,6 +5,22 @@
     <link>https://xavier38.github.io/atelier/appcast.xml</link>
     <language>fr</language>
     <item>
+      <title>Atelier 0.3.8</title>
+      <pubDate>Sun, 08 Nov 2026 08:37:11 +0100</pubDate>
+      <sparkle:version>202611080834</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink xml:lang="fr">https://xavier38.github.io/atelier/notes/0.3.8.fr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://xavier38.github.io/atelier/notes/0.3.8.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://xavier38.github.io/atelier/notes/0.3.8.es.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pt">https://xavier38.github.io/atelier/notes/0.3.8.pt.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nl">https://xavier38.github.io/atelier/notes/0.3.8.nl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="de">https://xavier38.github.io/atelier/notes/0.3.8.de.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="it">https://xavier38.github.io/atelier/notes/0.3.8.it.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/xavier38/atelier/releases/download/v0.3.8/Atelier.zip"
+                 type="application/octet-stream" sparkle:edSignature="RfMdji//KM70nCBLbdGxMZUTwikXS73I/6K4VeVQSs87T8Bui/Sm7vNpFNwiZjSdG+3NCDS9r+XcIaAQtfoUCQ==" length="33424245"/>
+    </item>
+    <item>
       <title>Atelier 0.3.7</title>
       <pubDate>Sun, 08 Nov 2026 08:01:22 +0100</pubDate>
       <sparkle:version>202611080759</sparkle:version>
