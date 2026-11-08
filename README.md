@@ -3,10 +3,12 @@
 <h1 align="center">Atelier</h1>
 
 <p align="center"><b>Vos photos méritent un atelier.</b> · <b>Your photos deserve a studio.</b><br>
-Sur votre Mac. Sans compte, sans abonnement, sans nuage. · On your Mac. No account, no subscription, no cloud.</p>
+Sur Mac, Windows et Linux. Sans compte, sans abonnement, sans nuage. · On Mac, Windows and Linux. No account, no subscription, no cloud.</p>
 
 <p align="center">
 <a href="https://github.com/xavier38/atelier/releases/latest/download/Atelier.zip"><b>⬇︎ Télécharger / Download Atelier.zip</b></a> ·
+<a href="https://github.com/xavier38/atelier/releases/latest/download/Atelier-Windows-x86_64.zip">Windows (préversion)</a> ·
+<a href="https://github.com/xavier38/atelier/releases/latest/download/Atelier-Linux-amd64.deb">Linux (.deb, préversion)</a> ·
 <a href="https://xavier38.github.io/atelier/">Site</a> ·
 <a href="https://xavier38.github.io/atelier/installation.html">Installation</a> ·
 <a href="https://xavier38.github.io/atelier/confidentialite.html">Confidentialité / Privacy</a>
@@ -14,7 +16,7 @@ Sur votre Mac. Sans compte, sans abonnement, sans nuage. · On your Mac. No acco
 
 <p align="center"><img src="promo-fr.jpg" width="720" alt="Atelier"></p>
 
-Gratuit · macOS 14 Sonoma ou plus récent · Mac Apple Silicon — Free · macOS 14 Sonoma or later · Apple Silicon Mac
+Mac : gratuit · macOS 14 Sonoma ou plus récent · Apple Silicon. Windows/Linux : préversions 0.1.0 ; validation Linux Mint en attente. — Mac: free · macOS 14 Sonoma or later · Apple Silicon. Windows/Linux: 0.1.0 previews; Linux Mint validation pending.
 
 ## 🇫🇷 En deux mots
 
