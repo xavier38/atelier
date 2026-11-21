@@ -3,7 +3,7 @@
 <h1 align="center">Atelier</h1>
 
 <p align="center"><b>Vos photos méritent un atelier.</b> · <b>Your photos deserve a studio.</b><br>
-Sur Mac. Sans compte, sans abonnement, sans nuage. · On Mac. No account, no subscription, no cloud.</p>
+Sur votre Mac. Sans compte, sans abonnement, sans nuage. · On your Mac. No account, no subscription, no cloud.</p>
 
 <p align="center">
 <a href="https://github.com/xavier38/atelier/releases/latest/download/Atelier.zip"><b>⬇︎ Télécharger / Download Atelier.zip</b></a> ·
@@ -14,14 +14,14 @@ Sur Mac. Sans compte, sans abonnement, sans nuage. · On Mac. No account, no sub
 
 <p align="center"><img src="promo-fr.jpg" width="720" alt="Atelier"></p>
 
-Mac : gratuit · macOS 14 Sonoma ou plus récent · Apple Silicon. — Mac: free · macOS 14 Sonoma or later · Apple Silicon.
+Gratuit · macOS 14 Sonoma ou plus récent · Mac Apple Silicon — Free · macOS 14 Sonoma or later · Apple Silicon Mac
 
 ## 🇫🇷 En deux mots
 
 Atelier réunit trois modules pour organiser et retoucher vos images :
 
 - **Photothèque** : parcourez vos dossiers et les photos d’Apple autorisées, créez ou renommez des dossiers, déplacez les images par glisser-déposer avec une cible bien visible, ou mettez-les à la corbeille.
-- **Optimisation** : JPEG sans perte ou après comparaison, export web AVIF et JPEG ; sauvegarde avant remplacement.
+- **Optimisation** : réduisez les JPEG sans perte ou après comparaison ; exportez des copies AVIF et JPEG pour le web. Une sauvegarde est créée avant remplacement.
 - **Essentiel** : cliquez sur ce qui vous gêne (ciel, personne, arrière-plan, objet). Atelier a repéré les zones de la photo sur votre Mac et propose trois variantes calculées sur votre image, puis un curseur. Suggestions (penchée, un peu sombre, sujet détecté), journal « Ce que j'ai fait » où chaque ligne se masque, se modifie ou se retire, Espace pour voir l'original, Revenir à l'original toujours possible.
 - **Studio** : l'éditeur complet. 50+ effets, 19+ outils (pinceau, correcteur, pièce, tampon, formes, texte, recadrage, perspective, fluidité…), calques de réglage, masques, filtres modifiables, styles, groupes, écrêtage, modes de fusion, histogramme, RAW.
 
@@ -34,7 +34,7 @@ Tout est **non destructif** : ce que l'Essentiel fait apparaît en couches dans 
 Atelier brings together three modules to organise and edit your images:
 
 - **Photo Library**: browse your folders and authorised Apple Photos, create or rename folders, move images by drag and drop with a clearly highlighted target, or send them to the Trash.
-- **Optimisation**: lossless JPEG or compression after comparison, AVIF and JPEG web export; backup before replacement.
+- **Optimisation**: reduce JPEG size losslessly or after comparison; export AVIF and JPEG copies for the web. A backup is created before replacement.
 - **Essential**: click what bothers you (sky, person, background, object). Atelier has found the areas of the photo on your Mac and offers three variants computed on your picture, then a slider. Suggestions (tilted, a bit dark, subject detected), a “What I did” list where each line can be hidden, changed or removed, Space to see the original, Back to original always possible.
 - **Studio**: the full editor. 50+ effects, 19+ tools (brush, healing, patch, clone, shapes, text, crop, perspective, liquify…), adjustment layers, masks, editable filters, styles, groups, clipping, blend modes, histogram, RAW.
 
