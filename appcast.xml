@@ -5,6 +5,22 @@
     <link>https://xavier38.github.io/atelier/appcast.xml</link>
     <language>fr</language>
     <item>
+      <title>Atelier 1.0.16</title>
+      <pubDate>Sun, 22 Nov 2026 21:30:20 +0100</pubDate>
+      <sparkle:version>202611222113</sparkle:version>
+      <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink xml:lang="fr">https://xavier38.github.io/atelier/notes/1.0.16.fr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://xavier38.github.io/atelier/notes/1.0.16.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://xavier38.github.io/atelier/notes/1.0.16.es.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pt">https://xavier38.github.io/atelier/notes/1.0.16.pt.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nl">https://xavier38.github.io/atelier/notes/1.0.16.nl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="de">https://xavier38.github.io/atelier/notes/1.0.16.de.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="it">https://xavier38.github.io/atelier/notes/1.0.16.it.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/xavier38/atelier/releases/download/v1.0.16/Atelier.zip"
+                 type="application/octet-stream" sparkle:edSignature="C6zt5B1yO5nlcR5MPoBLOTEK1FVj2V8aqrr8swna94DJ3a3LY5esfl9RNF7excrenPIsiwbPzUSAh9IrYfHsDw==" length="36685459"/>
+    </item>
+    <item>
       <title>Atelier 1.0.14</title>
       <pubDate>Sun, 22 Nov 2026 20:38:18 +0100</pubDate>
       <sparkle:version>202611222022</sparkle:version>
